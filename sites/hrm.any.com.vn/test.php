@@ -1,2 +1,2 @@
 <?php
-echo "Dynamic PHP page from HRM!";
+echo "Dynamic PHP page fro HRM!";
